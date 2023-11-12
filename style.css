@@ -1,11 +1,11 @@
 body {
-  font-size: 20px;
+  
   text-align: center;
   font-family: "Arial", "Meiryo", sans-serif;
 }
 h1 {
   text-shadow: 1px 1px 2px gray;
-  font-size: 40px;
+  font-size: 2em;
   letter-spacing: 1.2em;
   border-bottom: solid 3px rgb(115, 115, 114);
 
@@ -23,4 +23,8 @@ h1 {
 }
 #parent > p {
   font-weight: bold;
+}
+html{
+  font-size: 20px;
+
 }
